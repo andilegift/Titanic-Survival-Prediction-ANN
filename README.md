@@ -51,7 +51,7 @@ The ANN achieved the highest overall performance, demonstrating the value of non
 
 ## Author
 
-**Andile Gift Shabalala**  
+[**Andile Gift Shabalala**](https://www.linkedin.com/in/andile-gift-shabalala-2345bb313/) 
 
 ## Acknowledgments
 
