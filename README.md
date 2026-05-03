@@ -56,4 +56,4 @@ The ANN achieved the highest overall performance, demonstrating the value of non
 ## Acknowledgments
 
 - Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-- Built upon EDA work completed in Assignment 1 [https://github.com/andilegift](https://github.com/andilegift/ISM8X04-Learning-from-Data-Assignment )
+- Built upon EDA work completed in Assignment 1 [GitHub](https://github.com/andilegift/ISM8X04-Learning-from-Data-Assignment )
